@@ -1,0 +1,16 @@
+# On
+report (size 20) (numbered) =  11 ff 04 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ff43.0002 = 1
+ff43.0002 = 1
+
+# Off
+report (size 20) (numbered) =  11 ff 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ff43.0002 = 0
+
+# Temperature
+report (size 20) (numbered) =  11 ff 04 20 13 88 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ff43.0002 = 0
+
+# Brightness
+report (size 20) (numbered) =  11 ff 04 10 00 94 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ff43.0002 = 1
