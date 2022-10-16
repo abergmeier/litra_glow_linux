@@ -1,0 +1,12 @@
+// On
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 1, value: 1}
+
+// Off
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 1, value: 0}
+
+// Temperature
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 1, value: 0}
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 13, value: 1}
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 13, value: 0}
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 17, value: 1}
+{field_index: 0, report_id: 11, report_type: 1, usage_code: FF430002, usage_index: 17, value: 0}
