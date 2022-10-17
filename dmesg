@@ -1,1 +1,2 @@
-hid-generic 0003:046D:C900.0007: input,hiddev0,hidraw2: USB HID v1.11 Device [Logi Litra Glow] on usb-0000:00:14.0-8.2/input0
+input: Logi Litra Glow Consumer Control as /devices/pci0000:00/0000:00:14.0/usb3/3-4/3-4.2/3-4.2:1.0/0003:046D:C900.000B/input/input75
+hid-generic 0003:046D:C900.000B: input,hiddev0,hidraw2: USB HID v1.11 Device [Logi Litra Glow] on usb-0000:00:14.0-4.2/input0
