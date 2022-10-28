@@ -2,6 +2,6 @@ Logi Litra Glow (046d:c900) is a HID++ 4.2 device
 Feature 0x01: [0x0001] Feature set
 Feature 0x02: [0x0003] Device FW version
 Feature 0x03: [0x0005] Device name
-Feature 0x04: [0x1990] Illumation Light
+Feature 0x04: [0x1990] Illumination Light
 Feature 0x05: [0x1eb0] ? (hidden)
 Feature 0x06: [0x00c2] DFUcontrol 3 (hidden)
